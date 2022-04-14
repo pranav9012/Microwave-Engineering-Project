@@ -1,0 +1,3 @@
+Now modify the above circuit to an m-derived circuit to find out the value of attenuation 
+constant and compare that with the attenuation constant for the previous filter for different 
+values of m. Plot the graph.

@@ -1,0 +1,3 @@
+Write a MATLAB code where you will be provided the Z values for a two port T- network 
+initially as shown in Fig. below and thereby you have to calculate the ABCD matrix then 
+image impedance and propagation factor using the Z parameters.

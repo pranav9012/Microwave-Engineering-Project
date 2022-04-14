@@ -1,0 +1,3 @@
+Now, design a high pass filter using the same pi- Network using inductors and capacitors. 
+Plot the attenuation constant and phase constant in a single graph having some cut-off 
+frequency as ωc. Plot the graph
